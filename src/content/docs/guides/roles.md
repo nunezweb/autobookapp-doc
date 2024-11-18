@@ -3,8 +3,6 @@ title: Roles en el Sistema
 description: Información detallada sobre los roles disponibles en el sistema de gestión de citas.
 ---
 
-# Roles en el Sistema
-
 ## Administrador
 - Acceso completo al panel de administración.
 - Puede ver, editar y gestionar clientes, citas, servicios, vehículos y configuraciones del taller.

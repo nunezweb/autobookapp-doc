@@ -3,8 +3,6 @@ title: Paneles de Gestión
 description: Información sobre los paneles de administración, mecánico y cliente.
 ---
 
-# Paneles de Gestión
-
 ## Panel del Administrador
 - **Dashboard**: Vista general de datos como número de clientes, citas, servicios, vehículos y estadísticas de SMS y emails.
 - **Gestión de Clientes**:

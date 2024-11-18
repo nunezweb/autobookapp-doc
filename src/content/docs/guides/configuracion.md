@@ -3,8 +3,6 @@ title: Configuración del Taller
 description: Detalles sobre horarios, servicios y personalización del taller.
 ---
 
-# Configuración del Taller
-
 ## Horario Comercial
 - El administrador puede definir el horario de apertura y cierre del taller para cada día de la semana.
 - Los horarios comerciales definidos determinan la disponibilidad para la creación de citas.
