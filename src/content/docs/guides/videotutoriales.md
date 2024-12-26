@@ -5,7 +5,7 @@ description: Colección de videotutoriales sobre el uso del sistema.
 
 ## Panel del Administrador - Principal
 
-- Te recomendamos que, una vez hagas clic en el botón "¡Vamos Allá!", pauses el vídeo. Aparecerá una barra de opciones en la parte baja donde podrás activar el sonido para escuchar las explicaciones. 
+- Te recomendamos que, una vez hagas clic en el botón "¡Vamos Allá!", pauses el vídeo haciendo clic sobre el mismo. Aparecerá una barra de opciones en la parte baja donde podrás activar el sonido para escuchar las explicaciones. 
 - No olvides maximizar el vídeo para disfrutar de una mejor visualización.
 
 <div id='floik-iframe-container-m55lz17g'
