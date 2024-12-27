@@ -20,7 +20,7 @@ export default defineConfig({
             { label: "Paneles de Gestión", slug: "guides/paneles" },
             { label: "Gestión de Citas", slug: "guides/citas" },
             { label: "Configuración del Taller", slug: "guides/configuracion" },
-            { label: "Video tutoriales interactivos", slug: "guides/videotutoriales" },
+            { label: "Videotutoriales", slug: "guides/videotutoriales" },
           ],
         },
         // {
